@@ -2,72 +2,96 @@ reports:
 
    MultiQC Report.html:
       display: "MultiQC Report"
+      mimeType: "text"
 
    report.pdf:
       display: "Pdf report"
+      mimeType: "text"
 
    SPAdesHybrid-CAPES_S7-binDepths.heatmap.png:
       display: "SPAdesHybrid-CAPES_S7-binDepths.heatmap.png"
+      mimeType: "text"
 
    taxonomy.krona.html:
       display: "Taxonomy"
+      mimeType: "text"
 
    nfcore_chipseq110_samplesheet_test_full_6cols.csv:
       display: "nfcore_chipseq110_samplesheet_test_full_6cols"
+      mimeType: "text"
 
    all_sites.fas:
       display: "FAS file"
-
+      mimeType: "text"
+    
    baits.bed:
       display: "BED file"
+      mimeType: "text"
 
    bin_depths_summary.tsv:
       display: "TSV file"
+      mimeType: "text"
 
    CAPES_S7.log:
       display: "Log file"
+      mimeType: "text"
 
    execution_trace_2021-07-29_07-12-59.txt:
       display: "TXT file"
+      mimeType: "text"
 
    genome.dict:
       display: "DICT file"
+      mimeType: "text"
 
    genome.fasta:
       display: "FASTA file"
+      mimeType: "text"
 
    genome.fasta.fai:
       display: "FASTA Index"
+      mimeType: "text"
 
    genome.gff3:
       display: "GFF3 file"
+      mimeType: "text"
 
    genome.gtf:
       display: "GTF file"
+      mimeType: "text"
 
    pipeline_dag_2021-07-29_07-12-59.svg:
       display: "SVG file"
+      mimeType: "text"
 
    test.bedgraph:
       display: "BED Graph file"
+      mimeType: "text"
 
    test.bigwig:
       display: "BIGWIG file"
+      mimeType: "text"
 
    test.paired_end.bam:
       display: "BAM file"
+      mimeType: "text"
 
    test.vcf:
       display: "VCF file"
+      mimeType: "text"
 
    test.vcf.gz.tbi:
       display: "VCF Index"
+      mimeType: "text"
 
    test2.targets.tsv.gz:
       display: "TSV.GZ file"
+      mimeType: "text"
 
    transcriptome.paf:
       display: "PAF file"
+      mimeType: "text"
 
    transposed_report.tex:
       display: "TEX file"
+      mimeType: "text"
