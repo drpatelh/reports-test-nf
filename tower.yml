@@ -1,4 +1,4 @@
-reports:
+report:
 
    MultiQC Report.html:
       display: "MultiQC Report"
